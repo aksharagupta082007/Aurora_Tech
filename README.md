@@ -374,11 +374,4 @@ This project is currently developed for academic, research, and prototype purpos
 
 ---
 
-## Repository Link
-
-GitHub Repository:
-[https://github.com/aksharagupta082007/Aurora_Tech](https://github.com/aksharagupta082007/Aurora_Tech)
-
-```
-
 
